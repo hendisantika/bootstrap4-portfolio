@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap4-portfolio",
+  "version": "1.0.0",
+  "description": "Bootstrap 4 Portofolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hendisantika/bootstrap4-portfolio.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "4",
+    "portopolio",
+    "gulp"
+  ],
+  "author": "Hendi Santika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hendisantika/bootstrap4-portfolio/issues"
+  },
+  "homepage": "https://github.com/hendisantika/bootstrap4-portfolio#readme"
+}
