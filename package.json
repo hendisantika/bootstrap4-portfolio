@@ -25,6 +25,7 @@
   "homepage": "https://github.com/hendisantika/bootstrap4-portfolio#readme",
   "devDependencies": {
     "browser-sync": "^2.26.3",
-    "gulp": "^4.0.0"
+    "gulp": "^4.0.0",
+    "gulp-cli": "^2.0.1"
   }
 }
